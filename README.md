@@ -7,7 +7,7 @@
 
 This project analyzes the relationship between **Bitcoin market sentiment** (Fear & Greed Index) and **trader performance** on the Hyperliquid decentralized perpetuals exchange. The goal is to determine whether — and how — market sentiment regimes affect trading outcomes including PnL, win rate, trade frequency, and risk-taking behavior.
 
-This analysis was completed as a hiring assignment for a Web3 trading company and follows professional data science standards suitable for institutional review.
+This project was completed as part of a Data Science hiring assessment for a Web3 trading company and demonstrates end-to-end data analysis, statistical testing, and visualization skills.
 
 ---
 
@@ -152,5 +152,5 @@ project/
 ---
 
 **Developed by:** Saketh  
-**Project Type:** Personal Portfolio Project  
+**Project Type:** Data Science Portfolio Project
 **Date:** June 2026
