@@ -142,13 +142,15 @@ project/
 ---
 
 ## Technologies Used
-- **Python 3.12**
-- **pandas** — Data manipulation and merging
-- **NumPy** — Numerical computing
-- **Matplotlib / Seaborn** — Visualizations
-- **SciPy** — Statistical testing (ANOVA, Mann-Whitney U)
+- Python 3.12
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
 
 ---
 
-*Prepared by: Senior Data Scientist & Quantitative Trading Analyst*
-*Assignment: Web3 Trading Company Hiring Project — June 2025*
+**Developed by:** Saketh  
+**Project Type:** Personal Portfolio Project  
+**Date:** June 2026
